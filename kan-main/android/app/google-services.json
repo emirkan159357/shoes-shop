@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731173407251",
+    "project_id": "shoes-d555f",
+    "storage_bucket": "shoes-d555f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731173407251:android:0da7c7ab0a6298483b0de6",
+        "android_client_info": {
+          "package_name": "com.emir.kan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731173407251-nocr0cei0sb8pn2q9l7gs4o2tbnvj6ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEx8U-EHi21p4yglbaKCgKbRA8Ip8xBzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731173407251-nocr0cei0sb8pn2q9l7gs4o2tbnvj6ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
